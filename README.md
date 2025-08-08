@@ -33,7 +33,8 @@ Optimize storage costs in a serverless Azure environment for a **read-heavy** bi
 |  Moves >3 month data         |
 |  from Cosmos DB to Blob      |
 +-----------------------------+
-🔧 Components
+
+##🔧 Components
 Component	Purpose
 Azure Cosmos DB	Stores recent billing records (< 3 months)
 Azure Blob Storage (Cool Tier)	Archives billing records older than 3 months
