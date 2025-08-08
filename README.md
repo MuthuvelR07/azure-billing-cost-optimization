@@ -13,7 +13,7 @@ Optimize storage costs in a serverless Azure environment for a **read-heavy** bi
 
 ## 🧱 Architecture Overview
 
-![Architecture Diagram](./diagram.png)
+
 
 ### Components
 
